@@ -12,7 +12,8 @@ Sou **Analista de Suporte** com forte atuação em **desenvolvimento e automaç�
 - 🗄️ Firebird / MySQL
 - 🌐 HTML | CSS | JavaScript
 - ⚙️ Git & GitHub
-- 🌐 Postmain
+- 🚀 Postmain
+- 🐹 Goland
 
 ---
 
