@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou o Andre Torres
+# Olá, eu sou o Andre Torres
 
-Sou **Analista de Suporte** com forte atuação em **desenvolvimento e automação**, focado em criar soluções práticas para empresas e sistemas reais.
+Sou **Desenvolvedor Junior** com forte atuação em **desenvolvimento e automação**, focado em criar soluções práticas para empresas e sistemas reais.
 
 💡 Trabalho com integrações, APIs, automações e sistemas voltados para eficiência operacional.
 
@@ -12,8 +12,8 @@ Sou **Analista de Suporte** com forte atuação em **desenvolvimento e automaç�
 - 🗄️ Firebird / MySQL
 - 🌐 HTML | CSS | JavaScript
 - ⚙️ Git & GitHub
-- 🚀 Postmain
 - 🐹 Goland
+- 🚀 Delphi 7
 
 ---
 
@@ -24,9 +24,9 @@ Sou **Analista de Suporte** com forte atuação em **desenvolvimento e automaç�
 - Integração entre sistemas e bancos de dados
 - Automação de processos manuais
 
-🔹 **Sistemas Comerciais / PDV**
-- Ajustes de estoque
-- Consulta de preços
+🔹 **Sistemas Web **
+- Ajustes de estoque - Mobile
+- Consulta de preços - Mobile
 - Integração com banco Firebird
 
 🔹 **Estudos e Evolução Contínua**
